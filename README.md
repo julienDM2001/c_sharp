@@ -1,3 +1,7 @@
+This project is a simple data analysis and visualization application focused on supermarket sales data. The application reads a CSV file containing the sales data, performs various analyses on the data, and then displays the results in the console.
+
+Here's a brief overview of its main features and functionalities:
+
 Loading Data from CSV:
 The application starts by loading sales data from a CSV file named supermarket.csv using the LoadCsvData method. This method reads the file, extracts the headers to create the columns of a DataTable, and then fills the table with the rows of data.
 
